@@ -6,3 +6,4 @@ n3= input ("Enter 3rd number\n")
 average=(int(n1)+int(n2)+int(n3))/3
 print ("The average value is :",round(average,2))
 print average "\n"
+print ("this is the end of the calculation")
